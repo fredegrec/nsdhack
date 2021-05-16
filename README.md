@@ -5,3 +5,5 @@
  Видео-презентация https://drive.google.com/file/d/1SjfyfBQIvN3mnDo7DlUQvvHfQJJViKHz/view
   
   Демо https://drive.google.com/file/d/1zCZPX9mnyDCXDrs-evmvRw2Sa9clXZir/view
+
+![alt text](https://github.com/fredegrec/nsdhack/blob/main/grumpy_logo.png)
